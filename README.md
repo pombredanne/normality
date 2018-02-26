@@ -1,5 +1,7 @@
 # normality
 
+[![Build Status](https://travis-ci.org/pudo/normality.svg?branch=master)](https://travis-ci.org/pudo/normality)
+
 Normality is a Python micro-package that contains a small set of text
 normalization functions for easier re-use. These functions accept a
 snippet of unicode or utf-8 encoded text and remove various classes
@@ -22,6 +24,8 @@ assert slug == 'my-first-blog-post'
 ## Extended usage
 
 Read the source code, it's twenty lines of stuff.
+
+![RTSL](http://cdn.meme.am/instances/500x/58064648.jpg)
 
 ## License
 
